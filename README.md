@@ -1,6 +1,6 @@
 # MovieWorld - ASP.Net Core 3.1 Web API
 
-This project will allow users to search, CRUD(Create&Read&Update&Delete), and view popular movies for existing movies on our system.
+This project will allow users to search, CRUD(Create&Read&Update&Delete), and see popular movies for existing movies on our system.
 
 ## Features
 
